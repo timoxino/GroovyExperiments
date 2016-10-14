@@ -7,4 +7,5 @@ repositories {
 dependencies {
     compile 'org.codehaus.groovy:groovy-all:2.4.7'
     compile 'org.apache.ivy:ivy:2.4.0'
+    compile 'commons-net:commons-net:3.5'
 }
