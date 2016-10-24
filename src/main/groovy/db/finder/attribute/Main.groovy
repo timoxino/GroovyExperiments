@@ -1,4 +1,4 @@
-package db
+package db.finder.attribute
 
 import java.util.concurrent.Callable
 import java.util.concurrent.ConcurrentHashMap

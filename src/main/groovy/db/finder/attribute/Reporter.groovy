@@ -1,4 +1,4 @@
-package db
+package db.finder.attribute
 
 class Reporter
 {

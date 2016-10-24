@@ -1,5 +1,6 @@
-package db
+package db.finder.attribute
 
+import db.common.ConnectionDataInt
 import groovy.sql.Sql
 
 class DataReader
