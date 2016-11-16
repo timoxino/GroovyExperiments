@@ -1,3 +1,5 @@
+package inaction
+
 import groovy.transform.Immutable
 
 @Immutable

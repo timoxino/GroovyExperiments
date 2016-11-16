@@ -1,3 +1,5 @@
+package inaction
+
 def quickSort(list)
 {
     if (list.size() < 2) return list

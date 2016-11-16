@@ -1,3 +1,5 @@
+package inaction
+
 def total = 0
 def amount = 100
 

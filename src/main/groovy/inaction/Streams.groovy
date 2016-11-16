@@ -1,3 +1,5 @@
+package inaction
+
 import java.util.stream.Collectors
 
 def RESULT = 'DOWNLOADS, INDEX.HTML'

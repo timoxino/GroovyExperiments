@@ -1,3 +1,5 @@
+package inaction
+
 def inputText = """ Look for the bare necessities
 The simple bare necessities
 Forget about your worries and your strife

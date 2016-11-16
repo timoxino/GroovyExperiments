@@ -1,3 +1,5 @@
+package inaction
+
 class Weekday implements Comparable<Weekday>
 {
     private int index = 0

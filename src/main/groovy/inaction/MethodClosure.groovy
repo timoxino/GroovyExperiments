@@ -1,3 +1,5 @@
+package inaction
+
 class SizeFilter
 {
     int limit
