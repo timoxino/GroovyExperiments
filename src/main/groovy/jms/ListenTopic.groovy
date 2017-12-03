@@ -1,3 +1,5 @@
+package jms
+
 @Grab(group = 'org.apache.activemq', module = 'activemq-all', version = '5.9.0')
 import org.apache.activemq.ActiveMQConnectionFactory
 @Grab(group = 'net.sf.gtools.jms', module = 'JmsCategory', version = '0.2')

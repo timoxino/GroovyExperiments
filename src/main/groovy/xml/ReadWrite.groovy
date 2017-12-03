@@ -1,3 +1,5 @@
+package xml
+
 def parsedFile = new XmlSlurper().parse(new File('content.xml'))
 
 def categories = parsedFile.depthFirst().findAll {it.name() == 'category'}
